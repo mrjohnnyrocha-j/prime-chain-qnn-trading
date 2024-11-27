@@ -1,0 +1,17 @@
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+sql
+
+### 5. `market_data.csv` Example
+
+Here’s an example of what the `market_data.csv` file could look like. You could fetch this from Yahoo Finance or any other source for actual market data.
+
+```csv
+Date,Open,High,Low,Close,Adj Close,Volume
+2024-10-15,175.30,176.50,174.90,175.90,175.90,74620000
+2024-10-14,174.80,175.60,173.70,174.50,174.50,72650000
+2024-10-13,176.10,177.00,174.90,175.30,175.30,78040000
+This file should be placed in the data/ folder for easy access by the backend scripts.
+```
+```
+

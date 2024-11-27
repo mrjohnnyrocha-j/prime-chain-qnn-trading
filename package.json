@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@craco/craco": "^7.1.0",
+    "@openzeppelin/contracts": "4.9.4",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "web3": "1.8.0"
+  },
+  "name": "prime-chain-qnn-trading",
+  "version": "1.0.0",
+  "description": "This project implements a chatbot-driven portfolio management system using quantum neural networks inspired by the Prime Chain framework. The project includes a backend (Flask) for handling market data and portfolio optimization, and a frontend (React) that interacts with the user via a chatbot.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "solc": "^0.8.20"
+  }
+}
